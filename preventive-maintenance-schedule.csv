@@ -1,0 +1,7 @@
+Asset ID,Equipment,Location,Task,Check type,Frequency,Responsible,Est. time (min),LOTO required,Last done,Next due,Status,Notes
+CNV-001,Screw conveyor,Processing line 1,"Check shaft runout, hanger bearings and trough clearance",Visual / vibration,Monthly,Maintenance technician,45,Yes,2026-10-12,2026-11-12,Scheduled,EXAMPLE ROW - replace with your own assets
+GEN-001,Standby generator,Power house,"Check oil, coolant, belts and battery; run on-load test",Visual / functional,Weekly,Maintenance technician,30,No,2026-11-06,2026-11-13,Scheduled,Record run hours and test result
+GBX-002,Gearbox,Line 1 drive,Take oil sample for lubrication analysis; check breather and seals,Oil analysis,Quarterly,Maintenance technician,60,Yes,2026-09-15,2026-12-15,Scheduled,Compare result with previous sample
+MTR-004,Electric drive motor,Line 1 conveyor drive,"Thermal scan of motor body, bearings and terminals",Thermal,Monthly,Maintenance technician,20,No,2026-10-20,2026-11-20,Scheduled,Log temperatures against baseline
+CMP-001,Air compressor,Utility room,"Drain receiver, clean intake filter, check belt tension and guards",Visual,Weekly,Maintenance technician,30,Yes,2026-11-03,2026-11-10,Due,Isolate before touching belt or guards
+PMP-003,Centrifugal pump,Water treatment area,"Check seal leakage, coupling alignment and bearing temperature",Visual / thermal,Monthly,Maintenance technician,40,Yes,2026-10-08,2026-11-08,Overdue,Reschedule and note reason

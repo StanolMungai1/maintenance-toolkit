@@ -1,0 +1,5 @@
+Item / function,Failure mode,Effect of failure,"Severity (S, 1-10)",Cause,"Occurrence (O, 1-10)",Current controls,"Detection (D, 1-10)",RPN (S x O x D),Recommended action,Owner,Target date,Status
+Screw conveyor - moves product along the trough,Shaft bent or runout beyond limit,Shaft rubs trough; product contamination; line stops,8,Worn hanger bearing or overload,4,Monthly runout and bearing check,4,128,Add vibration check to monthly route; fit overload alarm,Maintenance technician,2026-12-15,Open
+Gearbox - transmits torque to the drive,Low or degraded lubricant,Overheating; gear and bearing wear,7,Seal leak or contamination,5,Quarterly oil sample,3,105,Check level monthly; replace leaking seal,Maintenance technician,2026-12-01,Open
+Standby generator - backup power,Fails to start on demand,Loss of power to the line,9,Flat battery,3,Weekly start test,2,54,Add battery voltage check to weekly round,Maintenance technician,2026-11-30,Open
+Electric drive motor - powers the conveyor,Bearing failure,Unplanned stoppage,7,Insufficient lubrication,4,Monthly thermal scan,4,112,Set a greasing interval and amount; add to PM schedule,Maintenance technician,2026-12-10,Open
